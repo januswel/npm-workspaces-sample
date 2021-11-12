@@ -1,0 +1,15 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "common": "1.0.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Takagi Kensuke <janus.wel.3@gmail.com>",
+  "license": "MIT"
+}
