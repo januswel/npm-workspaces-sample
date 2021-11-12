@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Takagi Kensuke <janus.wel.3@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  }
 }

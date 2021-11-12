@@ -1,7 +1,9 @@
+const chalk = require('chalk')
+
 module.exports = {
   foo: 1,
   bar: 'hooray',
   buz: () => {
-    return `${21 * 2}`
+    return chalk.blue('Hello')
   }
 }
